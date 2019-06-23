@@ -13,10 +13,10 @@ Forbes magazine article ranking [The 10 Happiest Countries in the World 2019](ht
 *   [World Happiness Report](https://www.kaggle.com/unsdsn/world-happiness) 2016-2018
 
 ## Output
-Showing my output contribution to group...
 
-* ![Happiness vs Infant Mortality](Output/HappinessVSinfantmortality.png)
-* ![Happiness vs Literacy](Output/HappinessVSliteracy.png)
+ ![Happiness vs Infant Mortality](Output/HappinessVSinfantmortality.png)
+
+ ![Happiness vs Literacy](Output/HappinessVSliteracy.png)
 
 
 ## Team members:
