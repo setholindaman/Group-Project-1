@@ -8,7 +8,7 @@
 
 ##  Data: 
 *   World Bank API
-*   [World Happiness Report](https://www.kaggle.com/unsdsn/world-happiness) 2016-2018"
+*   [World Happiness Report](https://www.kaggle.com/unsdsn/world-happiness) 2016-2018
 
 ## Team members:
 
@@ -19,5 +19,5 @@ Ryan Kulpack
 Dawn Roedel
 
 ### You can find our git repo at: 
-[World Happiness Study](https://github.com/setholindaman/World-Happiness-Study)"
+[World Happiness Study](https://github.com/setholindaman/World-Happiness-Study)
   
