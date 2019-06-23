@@ -22,10 +22,10 @@ Forbes magazine article ranking [The 10 Happiest Countries in the World 2019](ht
 
 ## Team members:
 
-Seth Lindaman
-Mona Arami
-Mendie Elit
-Ryan Kulpack
-Dawn Roedel
+* Seth Lindaman
+* Mona Arami
+* Mendie Elit
+* Ryan Kulpack
+* Dawn Roedel
 
   
