@@ -1,4 +1,6 @@
 ### World Happiness Study
+### You can find our git repo at: 
+[World Happiness Study](https://github.com/setholindaman/World-Happiness-Study)
 
 ## Goal:
 *   Determine if there is a coorelation between overal happiness and several quality of life indicators.
@@ -10,6 +12,15 @@
 *   World Bank API
 *   [World Happiness Report](https://www.kaggle.com/unsdsn/world-happiness) 2016-2018
 
+## Output
+![Happiness Bubble Chart](Output/happiness_bubble_chart.png)
+![Happiness vs Infant Mortality](Output/HappinessVSinfantmortality.png)
+![Happiness vs Literacy](Output/HappinessVSliteracy.png)
+![Happiness vs GDP](Output/Happy_v_GDP.png)
+![Happiness vs Freedom](Output/Happy_v_freedom.png)
+![Happiness vs GDP/Health/Freedom](Output/HappyvsFDP-Health-Freedom.png)
+![Choose Country](Output/Ireland.png)
+
 ## Team members:
 
 Seth Lindaman
@@ -18,6 +29,4 @@ Mendie Elit
 Ryan Kulpack
 Dawn Roedel
 
-### You can find our git repo at: 
-[World Happiness Study](https://github.com/setholindaman/World-Happiness-Study)
   
