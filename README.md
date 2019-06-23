@@ -13,13 +13,12 @@
 *   [World Happiness Report](https://www.kaggle.com/unsdsn/world-happiness) 2016-2018
 
 ## Output
+![Power Point Presentation](Output/output.pptx)
 ![Happiness Bubble Chart](Output/happiness_bubble_chart.png)
 ![Happiness vs Infant Mortality](Output/HappinessVSinfantmortality.png)
 ![Happiness vs Literacy](Output/HappinessVSliteracy.png)
 ![Happiness vs GDP](Output/Happy_v_GDP.png)
 ![Happiness vs Freedom](Output/Happy_v_freedom.png)
-![Happiness vs GDP/Health/Freedom](Output/HappyvsFDP-Health-Freedom.png)
-![Choose Country](Output/Ireland.png)
 
 ## Team members:
 
