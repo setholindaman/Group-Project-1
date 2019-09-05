@@ -1,6 +1,4 @@
 ### World Happiness Study
-### You can find our git repo at: 
-[World Happiness Study](https://github.com/setholindaman/World-Happiness-Study)
 
 ## Goal:
 Determine if there is a coorelation between overal happiness and several quality of life indicators.
